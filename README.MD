@@ -5,10 +5,15 @@ Information Technology Professional | Risk & Data Operations
 
 am a motivated Information Technology student at Arizona State University with a background in high-pressure data operations and retail trading. I enjoy bridging the gap between network infrastructure and data analysis, whether it's managing multi-million dollar books or configuring home lab environments.
 
+🛠 Tech Stack
 
+Languages & Tools:  Python, Java, HTML, CSS, Git, GitHub, Pandas
 
-🛠 Tech StackCategorySkillsLanguages & ToolsPython, Java, HTML, CSS, Git, GitHub, PandasIT & InfrastructureVMs, Smart Switch Config, Windows/Ubuntu Server, Cisco Packet TracerData & RiskData Analysis, Trend Analysis, Risk Management, Mathematical GraphingProductivityMicrosoft 365 (Excel, Teams, Outlook), Project Coordination
+IT & Infrastructure:  VMs, Smart Switch Config, Windows/Ubuntu Server, Cisco Packet Tracer
 
+Data & Risk:  Data Analysis, Trend Analysis, Risk Management, Mathematical Graphing
+
+Productivity:  Microsoft 365 (Excel, Teams, Outlook), Project Coordination
 
 🚀 Featured Projects
 🌐 Home Lab Infrastructure & Networking
