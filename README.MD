@@ -1,4 +1,4 @@
-Hi, I'm Francis Pagtama 👋
+Hi, I'm Francis  👋
 
 Information Technology Professional | Risk & Data Operations
 
